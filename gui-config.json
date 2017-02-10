@@ -1,0 +1,59 @@
+{
+  "configs": [
+    {
+      "server": "144.48.4.47",
+      "server_port": 8388,
+      "password": "3321516",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "144.168.59.127",
+      "server_port": 443,
+      "password": "YjlkZTc5ZW",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 0,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 55555,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
