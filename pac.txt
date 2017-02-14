@@ -2502,7 +2502,8 @@ var domains = {
   "hackintosh.zone": 1,
   "gitkraken.com": 1,
   "amazonaws.com": 1,
-  "msecnd.net": 1
+  "msecnd.net": 1,
+  "boinc.berkeley.edu": 1
 };
 
 var proxy = "__PROXY__";
