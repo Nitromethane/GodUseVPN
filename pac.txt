@@ -2503,7 +2503,10 @@ var domains = {
   "gitkraken.com": 1,
   "amazonaws.com": 1,
   "msecnd.net": 1,
-  "boinc.berkeley.edu": 1
+  "boinc.berkeley.edu": 1,
+  "material-ui.com": 1,
+  "atom.io": 1,
+  "springsource.com": 1
 };
 
 var proxy = "__PROXY__";
