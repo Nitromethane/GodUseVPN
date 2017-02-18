@@ -2506,7 +2506,9 @@ var domains = {
   "boinc.berkeley.edu": 1,
   "material-ui.com": 1,
   "atom.io": 1,
-  "springsource.com": 1
+  "springsource.com": 1,
+  "bpl.org": 1,
+  "yinyuran.com": 1,
 };
 
 var proxy = "__PROXY__";
