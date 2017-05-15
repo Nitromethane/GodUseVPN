@@ -2509,6 +2509,26 @@ var domains = {
   "springsource.com": 1,
   "bpl.org": 1,
   "yinyuran.com": 1,
+  "quora.com":1,
+  "microsoft.com": 1,
+  "sourcetreeapp.com":1,
+  "atlassian.com":1,
+  "cesiumjs.org":1,
+  "google.com.tw":1,
+  "docker.com":1,
+  "google-analytics.com":1,
+  "xjrumo.com":1,
+  "csszengarden.com":1,
+  "tubitv.com":1,
+  "dxomark.com":1,
+  "flipboard.com":1,
+  "fontawesome.io":1,
+  "angularjs.org":1,
+  "nikon.com":1,
+  "jetbrains.com":1,
+  "gcr.io":1,
+  "gitkraken.com":1,
+  "64clouds.com":1
 };
 
 var proxy = "__PROXY__";

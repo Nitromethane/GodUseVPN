@@ -1,20 +1,56 @@
 {
   "configs": [
     {
-      "server": "144.48.4.47",
-      "server_port": 8388,
-      "password": "3321516",
-      "method": "aes-256-cfb",
-      "remarks": "",
+      "server": "hka.v2ss.win",
+      "server_port": 10083,
+      "password": "33215166",
+      "method": "rc4-md5",
+      "remarks": "阿里云",
       "auth": false,
       "timeout": 5
     },
     {
-      "server": "144.168.59.127",
-      "server_port": 443,
-      "password": "YjlkZTc5ZW",
-      "method": "aes-256-cfb",
-      "remarks": "",
+      "server": "j0.0bad.com",
+      "server_port": 32729,
+      "password": "Wyp_1223_Wxw",
+      "method": "aes-128-cfb",
+      "remarks": "wxw",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "jpc.v2ss.win",
+      "server_port": 10083,
+      "password": "33215166",
+      "method": "rc4-md5",
+      "remarks": "免流量",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "jpb.v2ss.win",
+      "server_port": 10083,
+      "password": "33215166",
+      "method": "rc4-md5",
+      "remarks": "免流量",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "usb.v2ss.win",
+      "server_port": 10083,
+      "password": "33215166",
+      "method": "rc4-md5",
+      "remarks": "免流量",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sga.v2ss.win",
+      "server_port": 10083,
+      "password": "3321516",
+      "method": "rc4-md5",
+      "remarks": "阿里云新加坡",
       "auth": false,
       "timeout": 5
     }
@@ -32,7 +68,7 @@
   "availabilityStatistics": true,
   "autoCheckUpdate": false,
   "checkPreRelease": false,
-  "isVerboseLogging": false,
+  "isVerboseLogging": true,
   "logViewer": {
     "topMost": false,
     "wrapText": false,
