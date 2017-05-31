@@ -2528,7 +2528,11 @@ var domains = {
   "jetbrains.com":1,
   "gcr.io":1,
   "gitkraken.com":1,
-  "64clouds.com":1
+  "64clouds.com":1,
+  "wordpress.org":1,
+  "material.io":1,
+  "design.google.com":1,
+  "tpc.org":1
 };
 
 var proxy = "__PROXY__";
