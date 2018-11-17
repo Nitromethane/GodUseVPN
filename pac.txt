@@ -2497,7 +2497,6 @@ var domains = {
   "typescriptlang.org": 1,
   "gpugrid.net": 1,
   "pzea.com": 1,
-  "speedtest.net": 1,
   "mozilla.org": 1,
   "hackintosh.zone": 1,
   "gitkraken.com": 1,
@@ -2532,7 +2531,25 @@ var domains = {
   "wordpress.org":1,
   "material.io":1,
   "design.google.com":1,
-  "tpc.org":1
+  "tpc.org":1,
+  "bootstrapcdn.com":1,
+  "cloudfront.net": 1,
+  "medium.com": 1,
+  "lightbend.com": 1,
+  "gluu.org":1,
+  "cn.rx.js.org":1,
+  "tumblr.com":1,
+  "unpkg.com":1,
+  "dev.mysql.com":1,
+  "bitcointalk.org":1,
+  "ggpht.com":1,
+  "yt3.ggpht.com":1,
+  "hortonworks.com": 1,
+  "moneropools.com":1,
+  "www1.ece.neu.edu":1,
+  "t66y.com":1,
+  "steampowered.com": 1,
+  "gurushots.com": 1
 };
 
 var proxy = "__PROXY__";
